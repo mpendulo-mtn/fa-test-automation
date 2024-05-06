@@ -1,0 +1,22 @@
+{
+  "_pleaseNote": "Auto generated file for future use. Please do not edit",
+  "project": {
+    "name": "fa-test-automation",
+    "description": "test automation core framework creation",
+    "title": "fa-test-automation",
+    "author": "Desmond",
+    "adoTaskNumber": "n",
+    "features": {
+      "registeredInAppStore": false,
+      "semanticRelease": true,
+      "repoName": "fa-test-automation"
+    },
+    "template": "fa-template"
+  },
+  "runtime": {
+    "cli": "n",
+    "node": "v21.7.1",
+    "path": "fa-test-automation"
+  },
+  "version": "n"
+}
